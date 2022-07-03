@@ -23,6 +23,11 @@
     
     }
     cout<<"largest "<<largest <<endl;
+    cout<<"Smallest "<<smallest<<endl;
+
+
+
+    return 0;
 
 
  }
